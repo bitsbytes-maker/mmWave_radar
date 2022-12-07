@@ -1,1 +1,1 @@
-# mmWave_radar
+# A systematic study of object detection using static mmWave radar
